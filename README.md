@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Checkout form snippet** made with Bootstrap 4. It has a fully responsive layout that looks great on all screen sizes. The snippet includes a list of products with descriptions, prices, and a total sum for all items in the cart. There is also a compact payment form for entering credit card details. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/payment)
+**Checkout form snippet** made with Bootstrap 4. It has a fully responsive layout that looks great on all screen sizes. The snippet includes a list of products with descriptions, prices, and a total sum for all items in the cart. There is also a compact payment form for entering credit card details. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Payment Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/payment) 
+[![Payment Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
